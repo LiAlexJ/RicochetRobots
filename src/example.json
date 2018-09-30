@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "Id": "0,0",
+      "children": [
+        {
+          "Id": "0,1"
+        }
+      ]
+    },
+    {
+      "Id": "0,1",
+      "children": [
+        {
+          "Id": "1,1"
+        }
+      ]
+    }
+  ],
+  "startingNode": "0,0",
+  "targetNode": "1,1"
+}
